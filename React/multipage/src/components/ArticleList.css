@@ -1,0 +1,7 @@
+.articles{
+    display:flex;
+    flex-wrap: wrap; 
+     width:100%;
+     margin: 20px;
+
+}

@@ -1,0 +1,19 @@
+nav{
+    border-radius: 4px !important;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    box-shadow:  0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: 100%;
+}
+.navbar-nav >.active>a{
+    color: #D8C7FC !important;
+    border-bottom: solid 2px #D8C7FC;
+
+}
+@media(max-width:1000px){
+    .navbar-nav >.active>a{
+        color: #D8C7FC !important;
+        border-bottom: solid 2px #D8C7FC;
+        width: 7%;
+    }
+}
